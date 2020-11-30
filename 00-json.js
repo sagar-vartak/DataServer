@@ -1,4 +1,4 @@
-const Trainees = [
+[
   {
     timestamp: "11/20/2020 13:43:33",
     id: 0,
